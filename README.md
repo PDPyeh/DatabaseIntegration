@@ -7,6 +7,9 @@
 ## TABLE DATABASE
 <img src="https://github.com/user-attachments/assets/cebd82b2-e473-4164-bd13-c0fc8110a703" width="300" />
 
+---
+## PRAKTIKUM 10
+
 ## HALAMAN DETAIL
 <img width="300" src="https://github.com/user-attachments/assets/c0e7ee47-e5e5-4d30-aaed-5573063994a5" />
 
