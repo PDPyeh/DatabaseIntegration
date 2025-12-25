@@ -6,6 +6,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.databaseintegration.uicontroller.route.DestinasiDetail
 import com.example.databaseintegration.uicontroller.route.DestinasiEntry
 import com.example.databaseintegration.uicontroller.route.DestinasiHome
 import com.example.databaseintegration.view.EntrySiswaScreen
@@ -36,7 +37,7 @@ fun HostNavigasi(
                     navController.navigate(DestinasiEntry.route)
                 },
                 navigateToItemUpdate = {
-                    //navController.navigate("${DestinasiDetail.route}/$it")
+                    navController.navigate("${DestinasiDetail.route}/$it")
                 }
             )
         }
